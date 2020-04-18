@@ -25,6 +25,7 @@ export default [{
     'chalk',
     'ora',
     'promise-jsonfile',
-    'shelljs'
+    'shelljs',
+    '@creditkarma/thrift-parser'
   ]
 }];
