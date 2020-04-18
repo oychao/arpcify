@@ -72,6 +72,7 @@
     "sinon": "^9.0.1"
   },
   "dependencies": {
+    "@creditkarma/thrift-parser": "^1.2.0",
     "chalk": "^3.0.0",
     "commander": "^5.0.0",
     "mkdirp": "^1.0.3",
