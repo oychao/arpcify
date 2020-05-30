@@ -26,6 +26,8 @@ export default [{
     'ora',
     'promise-jsonfile',
     'shelljs',
-    '@creditkarma/thrift-parser'
+    '@creditkarma/thrift-parser',
+    'ejs',
+    'camelcase'
   ]
 }];
