@@ -81,6 +81,6 @@
     "ora": "^4.0.5",
     "promise-jsonfile": "^1.1.2",
     "readline-sync": "^1.4.10",
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   }
 }
